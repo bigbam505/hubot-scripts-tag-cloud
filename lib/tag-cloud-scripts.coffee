@@ -8,6 +8,7 @@
 #   None
 #
 # Commands:
+#   hubot tagcloud help
 #   hubot tagcloud add tagname value
 #
 # Author:
@@ -26,6 +27,4 @@ module.exports = (robot) ->
         msg.send 'Successfully added'
 
   robot.respond /tagcloud help/i, (msg) ->
-    msg.send 'You can run tagcloud commands by saying "hubot tagcloud <command>"'
-    msg.send 'List of commands included below:'
-    msg.send 'add <tag> <value>'
+    msg.send 'hubot tagcloud add <tag> <value>'
