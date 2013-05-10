@@ -1,0 +1,26 @@
+{
+  "name": "hubot-scripts-tag-cloud",
+  "version": "0.0.0",
+  "description": "A set of functions for integrating hubot into Tag-Cloud",
+  "main": "./lib/tag-cloud-scripts.js",
+  "directories":{
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bigbam505/hubot-scripts-tag-cloud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bigbam505/hubot-scripts-tag-cloud/issues"
+  },
+  "keywords": [
+    "tag-cloud",
+    "hubot",
+    ""
+  ],
+  "dependencies": {
+    "tag-cloud-client": "0.0.4"
+  },
+  "author": "Brent Montague <brent@bmontague.com>",
+  "license": "MIT"
+}
