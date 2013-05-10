@@ -1,4 +1,4 @@
-hubot-scripts-tag-cloud
+Tag-Cloud Hubot Integration
 =======================
 
 [![NPM version](https://badge.fury.io/js/hubot-scripts-tag-cloud.png)](https://npmjs.org/package/hubot-scripts-tag-cloud)
