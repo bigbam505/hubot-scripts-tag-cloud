@@ -2,7 +2,7 @@
   "name": "hubot-scripts-tag-cloud",
   "version": "0.0.0",
   "description": "A set of functions for integrating hubot into Tag-Cloud",
-  "main": "./lib/tag-cloud-scripts.js",
+  "main": "./lib/tag-cloud-scripts.coffee",
   "directories":{
     "lib": "lib"
   },
