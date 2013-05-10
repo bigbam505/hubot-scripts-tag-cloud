@@ -24,3 +24,8 @@ module.exports = (robot) ->
     tag_cloud.AddValue value, tag, (data)->
       if data.status
         msg.send 'Successfully added'
+
+  robot.respond /tagcloud help/i, (msg) ->
+    msg.send 'You can run tagcloud commands by saying "hubot tagcloud <command>"'
+    msg.send 'List of commands included below:'
+    msg.send 'add <tag> <value>'
