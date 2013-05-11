@@ -1,7 +1,7 @@
 Tag-Cloud Hubot Integration
 =======================
 
-[![NPM version](https://badge.fury.io/js/hubot-scripts-tag-cloud.png)](https://npmjs.org/package/hubot-scripts-tag-cloud)
+[![NPM version](https://badge.fury.io/js/hubot-tag-cloud.png)](https://npmjs.org/package/hubot-tag-cloud)
 
 ### 
 This module is suppose to be used as an external hubot script.
