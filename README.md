@@ -17,7 +17,7 @@ Enter "hubot tagcloud help" for the available functions
 
 ### Issues
 
-Issues for this module can be sent to [Hubot-script Tag-Cloud Issues](https://github.com/bigbam505/hubot-scripts-tag-cloud/issues)
+Issues for this module can be sent to [Hubot Tag-Cloud Issues](https://github.com/bigbam505/hubot-scripts-tag-cloud/issues)
 
 ### License
 
