@@ -1,5 +1,5 @@
 {
-  "name": "hubot-scripts-tag-cloud",
+  "name": "hubot-tag-cloud",
   "version": "0.0.1",
   "description": "A set of functions for integrating hubot into Tag-Cloud",
   "main": "./lib/tag-cloud-scripts.coffee",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bigbam505/hubot-scripts-tag-cloud.git"
+    "url": "git://github.com/bigbam505/hubot-tag-cloud.git"
   },
   "bugs": {
-    "url": "https://github.com/bigbam505/hubot-scripts-tag-cloud/issues"
+    "url": "https://github.com/bigbam505/hubot-tag-cloud/issues"
   },
   "keywords": [
     "tag-cloud",
